@@ -1,0 +1,15 @@
+body{
+    background-color: #212529 !important;
+    border-radius: 40px !important;
+}
+
+.container-fluid{
+   
+    padding: 30px;
+    margin: 25px;
+}
+
+#carouselExampleIndicators1 {
+    margin: 0;
+}
+
